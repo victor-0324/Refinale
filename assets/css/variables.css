@@ -1,8 +1,8 @@
 :root {
-  --primary-color: #F2D8DA; /*indigo*/
+  --primary-color: #3F51B5; /*indigo*/
   --primary-rgb: 63, 81, 181; /*indigo*/
   --primary-filter: 32,42,91; /*indigo*/
-  --accent-color: #26A69A; /*orange*/
+  --accent-color: #FF7043; /*orange*/
   --accent-rgb: 255, 112, 67; /*orange*/
 
   --danger-color: #EF5350; /*red*/
