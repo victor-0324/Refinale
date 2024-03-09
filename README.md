@@ -1,2 +1,0 @@
-# Refinale
-pages_clinica
