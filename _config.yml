@@ -1,0 +1,16 @@
+# Configurações gerais
+title: Refinale
+description: Uma breve descrição do seu site
+baseurl: "index.html" # Substitua pelo nome do seu repositório se estiver em um subdiretório
+
+# Configurações do tema (se estiver usando um tema)
+theme: jekyll-theme-cayman # Substitua pelo tema que você está usando
+
+# Configurações adicionais
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - _config.yml
