@@ -1,10 +1,12 @@
 # Configurações gerais
 title: Refinale
-description: Uma breve descrição do seu site
 baseurl: "index.html" # Substitua pelo nome do seu repositório se estiver em um subdiretório
+destination: docs
 
 # Configurações do tema (se estiver usando um tema)
 theme: jekyll-theme-cayman # Substitua pelo tema que você está usando
+exclude:
+  - assets/css/style.scss
 
 # Configurações adicionais
 markdown: kramdown
