@@ -1,6 +1,9 @@
 # Configurações gerais
 title: Refinale
 baseurl: "index.html" # Substitua pelo nome do seu repositório se estiver em um subdiretório
+- name: Criar diretório docs
+  run: mkdir docs
+
 destination: docs
 
 # Configurações do tema (se estiver usando um tema)
