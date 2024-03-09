@@ -111,14 +111,6 @@ body[data-theme="pink"]{
 }
 
 
-body[data-theme="indigo"]{
---primary-color: #3F51B5; /*indigo*/
---primary-rgb: 63, 81, 181; /*indigo*/
---primary-filter: 32,42,91; /*indigo*/
---accent-color: #FF7043; /*orange*/
---accent-rgb: 255, 112, 67; /*orange*/
-}
-
 
 body[data-theme="blue-grey"]{
 --primary-color: #78909C; /*blue-grey*/
