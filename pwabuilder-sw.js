@@ -1,7 +1,7 @@
 const CACHE_NAME = 'my-site-cache-v1';
 const urlsToCache = [
   '/',
-  '/css/style.css',
+  'assets/css/style.css',
   '/js/main.js',
   // Adicione outros recursos que você deseja que o Service Worker cacheie
 ];
