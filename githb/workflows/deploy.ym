@@ -1,0 +1,32 @@
+# Site settings
+title: "Meu Site Jekyll"
+description: "Um site exemplo construído com Jekyll"
+url: "https://seu-nome-de-usuario.github.io" # Substitua pelo URL do seu site
+baseurl: "" # Para subdiretórios, use "/nome-do-subdiretorio"
+
+# Build settings
+markdown: kramdown
+theme: minima # Substitua pelo tema que você está usando
+plugins:
+ - jekyll-feed
+
+# Permalinks
+permalink: pretty
+
+# Exclude from processing
+exclude:
+ - Gemfile
+ - Gemfile.lock
+ - node_modules
+ - vendor
+ - CHANGELOG.md
+ - README.md
+ - CNAME
+
+# Defaults
+defaults:
+ - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
