@@ -32,9 +32,9 @@
 .carousel-university-home .carousel-item:after{
   background-color: rgba(var(--primary-filter),.20);
 }
-.carousel-dashboard-home .carousel-item:after{
+/* .carousel-dashboard-home .carousel-item:after{
   background-color: rgba(var(--primary-filter),.40);
-}
+} */
 
 
 .profile-carousel .carousel-item:after{
